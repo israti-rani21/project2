@@ -1,4 +1,4 @@
 # New project 
 
 This project was created from local system.
-Created by Israti Rani.
+Created By Israti Rani.
